@@ -1,2 +1,4 @@
-Arsenal
-chelsea
+CLUBS		COUNTRY
+Madrid		Spain
+Arsenal 	England
+chelsea		England
