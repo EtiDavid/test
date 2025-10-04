@@ -1,5 +1,5 @@
-CLUBS		COUNTRY
-Madrid		Spain
-Arsenal 	England
-chelsea		England
-PSG		France
+CLUBS		COUNTRY		Nickname
+Madrid		Spain		Vardrid
+Arsenal 	England		best team
+chelsea		England		fake world champion
+PSG		France		oil money
